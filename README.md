@@ -11,4 +11,4 @@ Cada script contine las instrucciones necesarias, algunos scripts requieren prue
 ```npm test```
 
 
-**Puntos extra: hacer refactor del código, la mayoria de las funciones pueden hacerce con menos lienas
+**Puntos extra: hacer refactor del código, la mayoria de las funciones pueden hacerce con menos lineas de código
