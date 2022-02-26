@@ -1,14 +1,17 @@
-# Proyecto_Final_NodeJs
+# Proyecto_Final_NodeJS
 
-##Instrucciones:
+## Instrucciones:
 
-Este proyecto esta hecho en Nodejs y utiliza jest para hacer pruebas.
-Cada script contine las instrucciones necesarias, algunos scripts requieren pruebas otros corregir código.
+Este proyecto esta hecho en NodeJS y utiliza [jest](https://jestjs.io/) para generar/realizar pruebas.
 
-##para ejecutar:
+Cada script contine las instrucciones necesarias para realizar la tarea indicada; algunos scripts requieren pruebas, otros corregir código.
 
-```npm install```
-```npm test```
+Para ejecutar:
+
+```bash
+npm install
+npm test
+```
 
 
-**Puntos extra: hacer refactor del código, la mayoria de las funciones pueden hacerce con menos lineas de código
+> Puntos extra: re-hacer (refactor) el código, la mayoria de las funciones pueden hacerce con menos código
