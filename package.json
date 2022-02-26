@@ -1,0 +1,22 @@
+{
+  "name": "proyecto_final_nodejs",
+  "version": "1.0.0",
+  "description": "Proyecto Final",
+  "main": "index.js",
+  "scripts": {
+    "test": "jest"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/YurishamaBC/Proyecto_Final_NodeJs.git"
+  },
+  "author": "Saida Reyes",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/YurishamaBC/Proyecto_Final_NodeJs/issues"
+  },
+  "homepage": "https://github.com/YurishamaBC/Proyecto_Final_NodeJs#readme",
+  "dependencies": {
+    "jest": "^27.5.1"
+  }
+}
